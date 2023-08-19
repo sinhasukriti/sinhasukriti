@@ -73,7 +73,7 @@ Currently, I am diving deeper into the fascinating field of data science. Throug
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sukritisinhaportfolio.netlify.app/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [My Portfolio Website](https://sukritisinhaportfolio.netlify.app/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
 | [MoviePod](https://github.com/sinhasukriti/movie-pod)   | The movie app provides detailed descriptions for any movie you search. Find comprehensive information, including plot summaries, cast and crew details, ratings, and more, all in one convenient place.  |
 | [TextEmotion Detection](https://github.com/sinhasukriti/TEXT-EMOTION-)     |The project focuses on predicting the emotion level using Machine Learning, for accurate emotion classification in textual data.|
 | [MernEcommerce](https://github.com/sinhasukriti/mern-ecommerce)     |An ecommerce store built with MERN stack, and utilizes third party API’s. This ecommerce store enable three main different flows or implementations: Buyers browse the store categories, products and brands, Second Sellers or Merchants manage their own brand component and Admins manage and control the entire store components
