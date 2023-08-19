@@ -80,7 +80,7 @@ Currently, I am diving deeper into the fascinating field of data science. Throug
 | [Toodle Meet](https://github.com/Abhi6722/Toodle-Meet)     | Toodle Meet is a Secure, Simple and Scalable Video Conference solution that you can use as a standalone app or embed in your web application.
 | [Netflix-Clone](https://github.com/Abhi6722/Netflix_app)     | A simple ReactJS Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
 | [IEEE](https://github.com/Abhi6722/IEEE)     | IEEE Student Branch BIT Deogarh Website using HTML/CSS/JS
-<h1 align="center">Communication - the human connection - is the key to personal and success !</h1>
+
   
 
 
