@@ -73,14 +73,13 @@ Currently, I am diving deeper into the fascinating field of data science. Throug
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://abhi6722.in)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
-| [Covid Resources](https://github.com/Abhi6722/covid_resources)   | This is a Covid Resources app which goals to provide all essentail resources and services regarding COVID-19 at a single place    | issued.© 2021 Abhinav Kumar 
-| [Machine Learning Prediction Model](https://github.com/Abhi6722/Predictor)     | The main function of the app is to recommend movies based on our interest. This application provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. |
-| [Toodle](https://github.com/Abhi6722/toodle)     | A Google clone built using NextJs and Tailwind CSS.
-| [Toodle Meet](https://github.com/Abhi6722/Toodle-Meet)     | Toodle Meet is a Secure, Simple and Scalable Video Conference solution that you can use as a standalone app or embed in your web application.
-| [Netflix-Clone](https://github.com/Abhi6722/Netflix_app)     | A simple ReactJS Netflix homepage clone running on Astra DB that leverages a GraphQL API with paging and infinite scrolling.
-| [IEEE](https://github.com/Abhi6722/IEEE)     | IEEE Student Branch BIT Deogarh Website using HTML/CSS/JS
-
+| [My Portfolio Website](https://sukritisinhaportfolio.netlify.app/)     | IPortfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+| [MoviePod](https://github.com/sinhasukriti/movie-pod)   | The movie app provides detailed descriptions for any movie you search. Find comprehensive information, including plot summaries, cast and crew details, ratings, and more, all in one convenient place.  |
+| [TextEmotion Detection](https://github.com/sinhasukriti/TEXT-EMOTION-)     |The project focuses on predicting the emotion level using Machine Learning, for accurate emotion classification in textual data.|
+| [MernEcommerce](https://github.com/sinhasukriti/mern-ecommerce)     |An ecommerce store built with MERN stack, and utilizes third party API’s. This ecommerce store enable three main different flows or implementations: Buyers browse the store categories, products and brands, Second Sellers or Merchants manage their own brand component and Admins manage and control the entire store components
+| [QuadTree](https://github.com/sinhasukriti/Quad-Tree)     | Devised a tree-based efficient data structure for image compression with the features to get or set pixels, overlap or intersect images, extract a portion of an image or resize an image to increase or decrease the size.
+| [Water Remainder](https://github.com/sinhasukriti/water-reminder)     | A refreshing and visually appealing HTML CSS and JS project to help you stay hydrated and healthy!
+| [Real Time Code Editor](https://github.com/sinhasukriti/Real_time_code_editor)     | Experience seamless coding with our real-time editor: HTML, CSS, and JavaScript in one place. Instant feedback, live preview, and collaborative sharing. Unleash your creativity effortlessly!
   
 
 
