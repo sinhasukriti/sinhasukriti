@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sukritisinha7/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<a href="https://twitter.com/">
+<a href="">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
 </a>
 <a href="mailto:sukriti.bitd@gmail.com">
