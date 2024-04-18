@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A Passionate Web Developer | Software Developer | Data Scientist </h3>
+<h3 align="center">A Passionate Web Developer | Software Developer </h3>
 
 
    <h1>Technical Skills 🛠</h1>
