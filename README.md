@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 👨‍💻  I'm someone who loves all things tech and I also have a knack for solving problems by myself or with a team & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [ WebDeveloper (PHN Technology)](https://phntechnology.com/) - (Apr'23-Jul'23)
+- [ SoftwareDeveloper (PHN Technology)](https://phntechnology.com/) - (Jan'23-Jul'23)
+- - [ SoftwareDeveloper (REAL It sol)]() - (Jan'24-Sep'24)
 
 
 
