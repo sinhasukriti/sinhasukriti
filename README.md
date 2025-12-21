@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/sukritisinha7/">
+<a href="https://www.linkedin.com/in/sukriti-sinha7/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="mailto:sinhasukriti111@gmail.com">
