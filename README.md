@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/sukritisinha7/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<a href="mailto:sukriti.bitd@gmail.com">
+<a href="mailto:sinhasukriti111@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
 
@@ -39,16 +39,33 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center">A Passionate Web Developer | Software Developer </h3>
+<h3 align="center">Software Engineer </h3>
 
 
    <h1>Technical Skills 🛠</h1>
    
-With a strong foundation in web development, I have honed my skills in HTML, CSS, and JavaScript to create interactive and responsive websites. I enjoy the challenge of building seamless user experiences and ensuring the highest quality in my work. 
-In addition to web development, I have a solid understanding of data structures and algorithms, which enables me to optimize solutions and improve the efficiency of software systems. 
+   • Languages: Java, JavaScript, TypeScript, Python, C++
+ • Frontend Technologies: ReactJS, Next.js (App Router), Redux Toolkit, TypeScript, Bootstrap, HTML5, CSS3, Tail
+wind CSS, Material UI, Styled-Components, Chakra UI
+ • Backend Technologies: RESTful APIs, Strapi CMS, JWT Authentication
+ • Low Code / Automation: Power Apps, Power Automate, OutSystems (Reactive), SharePoint
+ • Databases: SQL, PostgreSQL
+ • DevOps: CI/CD, Docker, AWS (Basics)
+ • Platform & Tools: Git, GitHub, Bitbucket, Postman, Agile Methodology, Generative AI (OpenAI), Jira, CursorAI,
+ Figma, Unit Testing, VS Cod
+   
+Software Engineer passionate about building scalable automation solutions and high-performance web applications. I thrive on solving complex problems and shipping products that make a real impact.
+🚀 Currently
+Driving impact at Bahwan CyberTek | Previously engineered workflows for the World Bank Group
+💡 What I Do Best
 
-Currently, I am diving deeper into the fascinating field of data science. Through coursework and personal projects, I am gaining expertise in statistical analysis, machine learning, and data visualization. I am enthusiastic about using data-driven insights to make informed decisions and solve real-world problems.
+Performance Optimization: Reduced operational time by 40% and consistently achieve 95+ Lighthouse scores
+Problem Solving: 400+ LeetCode problems solved | Google Code Jam qualified
+Full-Stack Development: Building robust, scalable applications from frontend to backend
 
+
+🎯 Philosophy
+Always learning, always building.
 <p align="center"> 
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -71,7 +88,7 @@ Currently, I am diving deeper into the fascinating field of data science. Throug
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [My Portfolio Website](https://sukritisinhaportfolio.netlify.app/)     | Portfolio website build using HTML5, CSS3, JavaScript and jQuery. 
+
 | [MoviePod](https://github.com/sinhasukriti/movie-pod)   | The movie app provides detailed descriptions for any movie you search. Find comprehensive information, including plot summaries, cast and crew details, ratings, and more, all in one convenient place.  |
 | [TextEmotion Detection](https://github.com/sinhasukriti/TEXT-EMOTION-)     |The project focuses on predicting the emotion level using Machine Learning, for accurate emotion classification in textual data.|
 | [MernEcommerce](https://github.com/sinhasukriti/mern-ecommerce)     |An ecommerce store built with MERN stack, and utilizes third party API’s. This ecommerce store enable three main different flows or implementations: Buyers browse the store categories, products and brands, Second Sellers or Merchants manage their own brand component and Admins manage and control the entire store components
