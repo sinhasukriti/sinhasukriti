@@ -27,15 +27,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I am <b>Sukriti Sinha</b> pursuing a <b>Computer Science and Engineering</b> from Birla Institue of Technology Mesra. </br>
-👨‍💻  I'm someone who loves all things tech and I also have a knack for solving problems by myself or with a team & I enjoy learning new things. </br>
-
-### My Experiences 🙌
-- [ SoftwareDeveloper (PHN Technology)](https://phntechnology.com/) - (Jan'23-Jul'23)
-- - [ SoftwareDeveloper (REAL It sol)]() - (Jan'24-Sep'24)
-
-
-
+🌱 I am <b>Sukriti Sinha</b> Software Engineer </b> from Birla Institue of Technology Mesra. </br>
 
 
 
