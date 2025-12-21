@@ -1,4 +1,4 @@
-## Hey <img src="Hi.gif" width="29px">, I'm [Sukriti Sinha!](https://www.linkedin.com/in/sukritisinha7/) 
+## Hey , I'm [Sukriti Sinha!](https://www.linkedin.com/in/sukritisinha7/) 
 <!--
 **sinhasukriti/sinhasukriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -86,16 +86,7 @@ Always learning, always building.
 
 
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
 
-| [MoviePod](https://github.com/sinhasukriti/movie-pod)   | The movie app provides detailed descriptions for any movie you search. Find comprehensive information, including plot summaries, cast and crew details, ratings, and more, all in one convenient place.  |
-| [TextEmotion Detection](https://github.com/sinhasukriti/TEXT-EMOTION-)     |The project focuses on predicting the emotion level using Machine Learning, for accurate emotion classification in textual data.|
-| [MernEcommerce](https://github.com/sinhasukriti/mern-ecommerce)     |An ecommerce store built with MERN stack, and utilizes third party API’s. This ecommerce store enable three main different flows or implementations: Buyers browse the store categories, products and brands, Second Sellers or Merchants manage their own brand component and Admins manage and control the entire store components
-| [QuadTree](https://github.com/sinhasukriti/Quad-Tree)     | Devised a tree-based efficient data structure for image compression with the features to get or set pixels, overlap or intersect images, extract a portion of an image or resize an image to increase or decrease the size.
-| [Water Remainder](https://github.com/sinhasukriti/water-reminder)     | A refreshing and visually appealing HTML CSS and JS project to help you stay hydrated and healthy!
-| [Real Time Code Editor](https://github.com/sinhasukriti/Real_time_code_editor)     | Experience seamless coding with our real-time editor: HTML, CSS, and JavaScript in one place. Instant feedback, live preview, and collaborative sharing. Unleash your creativity effortlessly!
-  
 
 
 
